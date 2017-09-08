@@ -19,7 +19,7 @@ public class Main {
        m.testLocalDateTime();
 
     }
-    private void testLocalDateTime(){
+    void testLocalDateTime(){
 
         // 获取当前的日期时间
         LocalDateTime currentTime = LocalDateTime.now();
